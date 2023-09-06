@@ -4,7 +4,8 @@
 ## Description
 466 native Canadian speakers involved, balanced for gender. The recording corpus is rich in content, and it covers a wide domain such as generic command and control category, human-machine interaction category; smart home category; in-car category. The transcription corpus has been manually proofread to ensure high accuracy.
 
-For more details, please refer to the link: https://bit.ly/3dLlQHx
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1047?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
